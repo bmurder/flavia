@@ -42,7 +42,7 @@ class TelaPython:
                     print(k.upper() , ':' ,v)
                
             except:
-                print('Name Error, funcão não definida')
+                print('Name Error, funcao não definida')
                 
 
 jn = TelaPython()
