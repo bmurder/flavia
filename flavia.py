@@ -32,7 +32,7 @@ time.sleep(1)
 os.system('clear')
 print(cima)
 print('flavia assistent')
-time.sleep(1)
+time.sleep(2)
 for UR in flavia.items():
   print(bg)
   inicio = str(input(f'digite: '))
