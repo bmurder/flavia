@@ -260,4 +260,4 @@ for UR in flavia.items():
   	else:
   		print('ah gay')
   if 'cala boca' in inicio.lower():
-  	os.system('shutdown /s /t 1')
+  	os.system('shutdown -s -t 1')
